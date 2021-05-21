@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-21T17:04:39 IST" name="Default suite" finished-at="2021-05-21T17:05:03 IST" duration-ms="24078">
+    <groups>
+    </groups>
+    <test started-at="2021-05-21T17:04:39 IST" name="Default test" finished-at="2021-05-21T17:05:03 IST" duration-ms="24078">
+      <class name="pages.TestNGTodo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pages.TestNGTodo@524d6d96]" started-at="2021-05-21T17:04:39 IST" name="setUp" finished-at="2021-05-21T17:04:54 IST" duration-ms="14929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLambdaTestTodoPage()[pri:0, instance:pages.TestNGTodo@524d6d96]" started-at="2021-05-21T17:04:54 IST" name="testLambdaTestTodoPage" finished-at="2021-05-21T17:05:01 IST" duration-ms="7375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLambdaTestTodoPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pages.TestNGTodo@524d6d96]" started-at="2021-05-21T17:05:01 IST" name="tearDown" finished-at="2021-05-21T17:05:03 IST" duration-ms="1684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pages.TestNGTodo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
